@@ -6,3 +6,4 @@ Hi what's up?
 Console.WriteLine("Hello, Git!");
 ```
 
+<img src="G:\tmp\gittest\img\image-20200719170213151.png" alt="image-20200719170213151" style="zoom:80%;" />
