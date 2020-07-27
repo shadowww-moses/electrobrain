@@ -8,14 +8,6 @@ Console.WriteLine("Hello, Git!");
 
 <img src="img\image-20200719170213151.png" alt="image-20200719170213151" style="zoom:80%;" />
 
-
-
-А вот еще картинка, проверяем, работает ли относительный путь:
-
-<img src="img/image-20200727092647849.png" alt="image-20200727092647849" style="zoom:80%;" />
-=======
-
-
 Картинки, картинки... Самое важное 
 
 <img src="img/image-20200727092932335.png" alt="image-20200727092932335" style="zoom:80%;" />
