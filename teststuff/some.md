@@ -11,3 +11,4 @@ Console.WriteLine("Hello, Git!");
 Картинки, картинки... Самое важное 
 
 <img src="img/image-20200727092932335.png" alt="image-20200727092932335" style="zoom:80%;" />
+
